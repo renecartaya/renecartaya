@@ -1,3 +1,5 @@
+## Contact Info {#contact}
+
 - <i class="fa fa-stackoverflow"></i> https://stackoverflow.com/users/786542
 
 Hi, I’m René Cartaya. I am Software & Hardware Developer. I focus on Lab Automation and building solutions automation approaches in different areas of science and business.
