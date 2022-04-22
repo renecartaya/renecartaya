@@ -4,7 +4,7 @@ I am based in Bremen-Germany. The content of this page focuses on the projects I
 
 I am enthusiastic, creative, team-player, positive and self-driven personality. You can contact me if you have opportunities, any questions, or talk about interesting projects.
 
-Ph.D. Candidate/ University of Bremen
+Ph.D. Candidate/ Universität Bremen
 
 
 <!---
