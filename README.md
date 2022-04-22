@@ -1,4 +1,4 @@
-👋 Hi, I’m René Cartaya. I am Software & Hardware Developer. I focus on Lab Automation and building solutions automation approaches in different areas of science and business.
+Hi, I’m René Cartaya. I am Software & Hardware Developer. I focus on Lab Automation and building solutions automation approaches in different areas of science and business.
 
 I am based in Bremen-Germany. The content of this page focuses on the projects I work on related to Materials Research, Lab. Automation, as well as other off-topic discussions.
 
