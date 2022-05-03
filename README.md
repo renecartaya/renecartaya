@@ -9,6 +9,7 @@ I am enthusiastic, creative, team-player, positive and self-driven personality. 
 
 Ph.D. Candidate, Universität Bremen
 
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 <!---
 
