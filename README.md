@@ -1,5 +1,3 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
 Hi, I’m René Cartaya. I am Software & Hardware Developer. I focus on Lab Automation and building automation solutions in different areas of science and business.
 
 I am based in Bremen-Germany. The content of this page focuses on the projects I work on related to Materials Research, Lab. Automation, as well as other off-topic discussions.
