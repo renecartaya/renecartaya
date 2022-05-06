@@ -1,4 +1,4 @@
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white (https://www.linkedin.com/in/renecartaya))
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (https://www.linkedin.com/in/renecartaya))
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
 
 Hi, I’m René Cartaya. I am Software & Hardware Developer. I focus on Lab Automation and building automation solutions in different areas of science and business.
