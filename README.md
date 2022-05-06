@@ -3,7 +3,7 @@
 
 Hi, I’m René Cartaya. I am Software & Hardware Developer. I focus on building automation solutions in different areas of science and business.
 
-I am based in Bremen-Germany. The content of this page focuses on the projects I work on related to Materials Research, Lab. Automation, as well as other off-topic discussions.
+I am based in Bremen-Germany. The content of this page focuses on the projects I work on related to Materials Research, Automation, as well as other off-topic discussions.
 
 I am enthusiastic, creative, team-player, positive and self-driven personality. You can contact me if you have opportunities, any questions, or talk about interesting projects.
 
