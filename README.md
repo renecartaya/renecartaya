@@ -1,6 +1,6 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renecartaya)
 [![image](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rene-Cartaya-Lopez-2)
-![Custom badge](https://img.shields.io/{"schemaVersion": 1,"label": "hello","message": "sweet world","color": "orange"})
+![Custom badge](https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fgsch-citations-kjn1x4rc56s9.runkit.sh%2F)
 
 Hi, I’m René Cartaya. I am Software & Hardware Developer. I focus on building automation solutions in different areas of science and business.
 
