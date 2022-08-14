@@ -1,7 +1,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renecartaya)
 [![image](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rene-Cartaya-Lopez-2)
 
-Hi, I’m René Cartaya. I am Software & Hardware Developer. I focus on building automation solutions in different areas of science and business.
+Hi, I’m René Cartaya. I am a Physicist that enjoy of Software & Hardware Development. One of my focus is on building automation solutions in different areas of science and business.
 
 I am based in Bremen-Germany. The content of this page focuses on the projects I work on related to Materials Research, Automation, as well as other off-topic discussions.
 
