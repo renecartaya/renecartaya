@@ -3,9 +3,9 @@
 
 Hi, I’m René Cartaya. I am a Physicist that enjoys Software & Hardware Development. One of my focuses is on building automation solutions in different areas of applied science, technology and engineering.
 
-I am based in Bremen-Germany. The content of this page focuses on the projects I work on related to materials research, hardware automation for optical inspection and metrology, as well as other related areas.
+I am based in Germany. The content of this page focuses on the projects I work on related to materials research, hardware automation for optical inspection and metrology, as well as other related areas.
 
-I am an enthusiastic, creative team player and positive and self-driven personality. You can contact me if you have opportunities, have questions, or discuss exciting projects.
+I am an enthusiastic, creative team player and positive and self-driven personality. You can contact me if you want to discuss about exciting projects.
 
 Ph.D. Candidate, Universität Bremen
 
