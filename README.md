@@ -7,8 +7,6 @@ I am based in Germany. The content of this page focuses on the projects I work o
 
 I am an enthusiastic, creative team player and positive and self-driven personality. You can contact me if you want to discuss about exciting projects.
 
-Ph.D. Candidate, Universität Bremen
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
